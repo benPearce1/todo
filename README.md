@@ -18,7 +18,7 @@ Completed todos disappear from the list after 1 day.
 
 ## Build
 
-Requires [.NET 10](https://dotnet.microsoft.com/download) SDK.
+Requires [.NET 8](https://dotnet.microsoft.com/download) SDK or later.
 
 ```bash
 dotnet publish -c Release -o out
